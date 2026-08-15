@@ -1,0 +1,6 @@
+{
+  "immediate_locator_is_visible": false,
+  "web_first_expect_passed": true,
+  "expect_elapsed_ms": 358.5,
+  "explanation": "expect() retried until the element recovered"
+}

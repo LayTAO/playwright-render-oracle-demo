@@ -1,0 +1,418 @@
+[
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 0,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 100,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 200,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 300,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 400,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 0.5,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 450,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 0,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": false,
+    "paintChangedPixels": 0,
+    "timeMs": 500,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 0.5,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 550,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 600,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 700,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 800,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 900,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 31,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 1000,
+    "case": "flicker"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 0,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 75,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 100,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 119,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 0.6666666865348816,
+    "hitRatio": 0.6,
+    "checkVisibility": true,
+    "paintChangedPixels": 3840,
+    "timeMs": 200,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 163,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 0.30000001192092896,
+    "hitRatio": 0.2,
+    "checkVisibility": true,
+    "paintChangedPixels": 1728,
+    "timeMs": 300,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 207,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 0,
+    "hitRatio": 0,
+    "checkVisibility": true,
+    "paintChangedPixels": 0,
+    "timeMs": 400,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 229,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 0,
+    "hitRatio": 0,
+    "checkVisibility": true,
+    "paintChangedPixels": 0,
+    "timeMs": 450,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 251,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 0,
+    "hitRatio": 0,
+    "checkVisibility": true,
+    "paintChangedPixels": 0,
+    "timeMs": 500,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 229,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 0,
+    "hitRatio": 0,
+    "checkVisibility": true,
+    "paintChangedPixels": 0,
+    "timeMs": 550,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 207,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 0,
+    "hitRatio": 0,
+    "checkVisibility": true,
+    "paintChangedPixels": 0,
+    "timeMs": 600,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 163,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 0.30000001192092896,
+    "hitRatio": 0.2,
+    "checkVisibility": true,
+    "paintChangedPixels": 1728,
+    "timeMs": 700,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 119,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 0.6666666865348816,
+    "hitRatio": 0.6,
+    "checkVisibility": true,
+    "paintChangedPixels": 3840,
+    "timeMs": 800,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 75,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 900,
+    "case": "slide"
+  },
+  {
+    "pwVisible": true,
+    "opacity": 1,
+    "rect": {
+      "x": 31,
+      "y": 171,
+      "width": 120,
+      "height": 48
+    },
+    "intersectionRatio": 1,
+    "hitRatio": 1,
+    "checkVisibility": true,
+    "paintChangedPixels": 5760,
+    "timeMs": 1000,
+    "case": "slide"
+  }
+]

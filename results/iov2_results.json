@@ -1,0 +1,135 @@
+[
+  {
+    "case": "normal",
+    "supported": true,
+    "isVisible": true,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "display-none",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 0,
+    "isIntersecting": false
+  },
+  {
+    "case": "visibility-hidden",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "opacity-zero",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "parent-opacity-zero",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "overflow-full",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 0,
+    "isIntersecting": false
+  },
+  {
+    "case": "overflow-partial",
+    "supported": true,
+    "isVisible": true,
+    "intersectionRatio": 0.3166666626930237,
+    "isIntersecting": true
+  },
+  {
+    "case": "offscreen",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 0,
+    "isIntersecting": false
+  },
+  {
+    "case": "covered",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "transparent-covered",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "clip-path",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 0,
+    "isIntersecting": true
+  },
+  {
+    "case": "filter-opacity",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "transparent-color",
+    "supported": true,
+    "isVisible": true,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "scale-zero",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "content-visibility",
+    "supported": true,
+    "isVisible": false,
+    "intersectionRatio": 0,
+    "isIntersecting": false
+  },
+  {
+    "case": "mask-zero",
+    "supported": true,
+    "isVisible": true,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "pointer-none",
+    "supported": true,
+    "isVisible": true,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "empty-canvas",
+    "supported": true,
+    "isVisible": true,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  },
+  {
+    "case": "pseudo",
+    "supported": true,
+    "isVisible": true,
+    "intersectionRatio": 1,
+    "isIntersecting": true
+  }
+]

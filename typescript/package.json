@@ -1,0 +1,15 @@
+{
+  "name": "playwright-render-oracle-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.57.0",
+    "@types/node": "24.10.1",
+    "pixelmatch": "7.1.0",
+    "pngjs": "7.0.0",
+    "typescript": "5.9.3"
+  }
+}

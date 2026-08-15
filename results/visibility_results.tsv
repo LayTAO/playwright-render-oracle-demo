@@ -1,0 +1,22 @@
+case	pwVisible	checkVisibility	intersectionRatio	hitRatio	paintChangedPixels	opacityProduct	display	visibility	opacity	clipPath	filter	contentVisibility	pointerEvents
+normal	True	True	1	1	5760	1	flex	visible	1	none	none	visible	auto
+display-none	False	False	0	0	0	1	none	visible	1	none	none	visible	auto
+visibility-hidden	False	False	1	0	0	1	flex	hidden	1	none	none	visible	auto
+opacity-zero	True	False	1	1	0	0	flex	visible	0	none	none	visible	auto
+parent-opacity-zero	True	False	1	1	0	0	flex	visible	1	none	none	visible	auto
+overflow-full	True	True	0	0	0	1	flex	visible	1	none	none	visible	auto
+overflow-partial	True	True	0.317	0.400	1824	1	flex	visible	1	none	none	visible	auto
+offscreen	True	True	0	0	0	1	flex	visible	1	none	none	visible	auto
+covered	True	True	1	0	0	1	flex	visible	1	none	none	visible	auto
+transparent-covered	True	True	1	0	5760	1	flex	visible	1	none	none	visible	auto
+clip-path	True	True	0	0	0	1	flex	visible	1	inset(100%)	none	visible	auto
+filter-opacity	True	True	1	1	0	1	flex	visible	1	none	opacity(0)	visible	auto
+transparent-color	True	True	1	1	0	1	flex	visible	1	none	none	visible	auto
+scale-zero	False	True	1	0	0	1	flex	visible	1	none	none	visible	auto
+content-visibility	False	False	0	0	0	1	flex	visible	1	none	none	visible	auto
+mask-zero	True	True	1	1	0	1	flex	visible	1	none	none	visible	auto
+pointer-none	True	True	1	0	5760	1	flex	visible	1	none	none	visible	none
+empty-canvas	True	True	1	1	0	1	flex	visible	1	none	none	visible	auto
+pseudo	True	True	1	1	3344	1	flex	visible	1	none	none	visible	auto
+
+JSON: /mnt/data/playwright_visibility_results.json

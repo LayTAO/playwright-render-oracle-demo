@@ -1,0 +1,22 @@
+case	supported	isVisible	intersectionRatio	isIntersecting
+normal	True	True	1	True
+display-none	True	False	0	False
+visibility-hidden	True	False	1	True
+opacity-zero	True	False	1	True
+parent-opacity-zero	True	False	1	True
+overflow-full	True	False	0	False
+overflow-partial	True	True	0.3166666626930237	True
+offscreen	True	False	0	False
+covered	True	False	1	True
+transparent-covered	True	False	1	True
+clip-path	True	False	0	True
+filter-opacity	True	False	1	True
+transparent-color	True	True	1	True
+scale-zero	True	False	1	True
+content-visibility	True	False	0	False
+mask-zero	True	True	1	True
+pointer-none	True	True	1	True
+empty-canvas	True	True	1	True
+pseudo	True	True	1	True
+
+JSON: /mnt/data/playwright_iov2_results.json
